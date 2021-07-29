@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #264653 !important; 
+}
+.custom_bg_color{
+    background-color: #e76f51;
+    border: none;
+}
+.custom_text_color{
+    color: #e76f51;
+}
+
+/* Featured Start  */
+.custom_img{
+    filter: grayscale(1);
+}
+/* Featured End  */
+
+/* Happy Client Start  */
+.text_color{
+    color: gray;
+}
+/* Happy Client End  */
